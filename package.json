@@ -1,0 +1,17 @@
+{
+  "name": "raeed-opd-clinic",
+  "version": "1.0.0",
+  "description": "Raeed OPD Clinic - Prescription Management System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "cors": "^2.8.5",
+    "better-sqlite3": "^9.4.3"
+  }
+}
